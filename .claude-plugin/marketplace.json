@@ -1,0 +1,17 @@
+{
+  "name": "content-mill-instagram",
+  "owner": {
+    "name": "Content Mill",
+    "email": "support@contentmill.dev"
+  },
+  "metadata": {
+    "description": "Schedule and publish Instagram posts from chat: write captions, upload photos and carousels, preview each post, and track what's scheduled or published. Instagram scheduler by Content Mill."
+  },
+  "plugins": [
+    {
+      "name": "content-mill-instagram",
+      "source": "./",
+      "description": "Schedule and publish Instagram posts from chat: write captions, upload photos and carousels, preview each post, and track what's scheduled or published. Instagram scheduler by Content Mill."
+    }
+  ]
+}
