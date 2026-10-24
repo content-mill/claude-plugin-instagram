@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.1.4
+
+- Listing name: `displayName` is "Instagram by Content Mill".
+
 ## 0.1.3
 
 - README: add a troubleshooting section.
